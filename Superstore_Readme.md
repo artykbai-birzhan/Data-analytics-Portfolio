@@ -44,6 +44,7 @@ Marketing Focus: Оптимизация маркетинговых бюджет�
 Seasonal Strategies: Усиление промо-акций в периоды, когда наблюдается историческое снижение Retention Rate в когортах.
 
 Project Structure
+
 Superstore_python.ipynb — Jupyter Notebook с полным циклом обработки, расчетов и визуализации.
 
 Superstore.csv — Исходный набор данных.
