@@ -48,4 +48,4 @@ Superstore_python.ipynb — Jupyter Notebook с полным циклом обр
 
 Superstore.csv — Исходный набор данных.
 
-Superstore.md — Описание проекта.
+Superstore_Readme.md — Описание проекта.
