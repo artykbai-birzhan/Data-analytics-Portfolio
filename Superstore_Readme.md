@@ -1,4 +1,5 @@
 <img width="300" height="168" alt="images-3" src="https://github.com/user-attachments/assets/865f4e9a-2caf-4036-a5ee-53f5249f1a3f" />
+
 Retail Business Analytics: Customer Value & Retention Study
 
 Project Overview
