@@ -40,21 +40,22 @@ Time Features: Выделение года (SaleYear) и месяца (SaleMonth
 В ходе анализа были визуализированы:
 
 Корреляция между ценой и физическими характеристиками (Building Area, Rooms).
-
+<img width="1008" height="920" alt="HH" src="https://github.com/user-attachments/assets/3aead91a-9ea3-49d4-9bb1-7d2214bdccf4" />
 Распределение цен в зависимости от региона (Regionname) и типа недвижимости.
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/25c6418e-0c02-41c5-aec4-536d322973a4" />
 
 Влияние географического положения (Lattitude, Longtitude) на стоимость.
 
 Results & Insights
 
 Location Matters: Регион проживания и близость к центру города являются наиболее сильными предикторами цены.
+<img width="1001" height="723" alt="image" src="https://github.com/user-attachments/assets/dd006ed5-9dfe-4d75-abc5-5bd86f855720" />
 
 Size vs Price: Обнаружена сильная положительная корреляция между жилой площадью (BuildingArea) и итоговой стоимостью.
 <img width="691" height="470" alt="pp" src="https://github.com/user-attachments/assets/6bab2257-58dc-4e8f-8923-1ccd209448b6" />
 
 Age Factor: Новые постройки и исторические здания ценятся выше, чем дома среднего возраста (U-образная зависимость).
-
-<img width="1008" height="920" alt="HH" src="https://github.com/user-attachments/assets/3aead91a-9ea3-49d4-9bb1-7d2214bdccf4" />
+<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/f53b97a7-eb63-4730-89c6-be503a5a716d" />
 
 
 Repository Structure
