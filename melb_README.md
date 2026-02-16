@@ -49,9 +49,11 @@ Time Features: Выделение года (SaleYear) и месяца (SaleMonth
 Results & Insights
 
 Location Matters: Регион проживания и близость к центру города являются наиболее сильными предикторами цены.
+
 <img width="1001" height="723" alt="image" src="https://github.com/user-attachments/assets/dd006ed5-9dfe-4d75-abc5-5bd86f855720" />
 
 Size vs Price: Обнаружена сильная положительная корреляция между жилой площадью (BuildingArea) и итоговой стоимостью.
+
 <img width="691" height="470" alt="pp" src="https://github.com/user-attachments/assets/6bab2257-58dc-4e8f-8923-1ccd209448b6" />
 
 Age Factor: Новые постройки и исторические здания ценятся выше, чем дома среднего возраста (U-образная зависимость).
