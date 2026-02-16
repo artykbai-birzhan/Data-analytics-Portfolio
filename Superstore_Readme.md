@@ -17,13 +17,13 @@ Customer Lifetime Value (LTV): Расчет прогнозной прибыли 
  <img width="939" height="474" alt="Screenshot 2026-02-16 at 19 17 19" src="https://github.com/user-attachments/assets/1d5ade53-f2f4-44cc-a579-9594468a98f3" />
 
 Formula used: LTV = AOV * Purchase Frequency * Average Lifespan
- <img width="946" height="462" alt="Screenshot 2026-02-16 at 19 07 41" src="https://github.com/user-attachments/assets/af5ebc67-2e1a-41ee-ab75-8fbd8efe0fb6" />
+ <img width="939" height="474" alt="Screenshot 2026-02-16 at 19 07 41" src="https://github.com/user-attachments/assets/af5ebc67-2e1a-41ee-ab75-8fbd8efe0fb6" />
 
 Retention & Churn Analysis: Определение доли лояльных клиентов и расчет скорости оттока (Churn Rate).
- <img width="744" height="468" alt="Screenshot 2026-02-16 at 19 07 52" src="https://github.com/user-attachments/assets/beecd142-3fc7-4c11-9fca-c37d178fe950" />
+ <img width="939" height="474" alt="Screenshot 2026-02-16 at 19 07 52" src="https://github.com/user-attachments/assets/beecd142-3fc7-4c11-9fca-c37d178fe950" />
 
 Cohort Analysis: Анализ поведения групп клиентов во времени с использованием визуализации Heatmap.
- <img width="1049" height="603" alt="Screenshot 2026-02-16 at 19 07 23" src="https://github.com/user-attachments/assets/f3c6eb35-ed5b-449e-8445-30d746031a42" />
+ <img width="939" height="474" alt="Screenshot 2026-02-16 at 19 07 23" src="https://github.com/user-attachments/assets/f3c6eb35-ed5b-449e-8445-30d746031a42" />
 
 Correlation Analysis: Исследование взаимосвязи между частотой покупок и общими затратами клиента.
 
