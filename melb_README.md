@@ -62,6 +62,7 @@ Age Factor: Новые постройки и исторические здани
 
 
 Repository Structure
+
 melbourne_housing.ipynb — основной Jupyter Notebook с процессом очистки и анализа.
 
 melb_data.csv — исходный датасет.
