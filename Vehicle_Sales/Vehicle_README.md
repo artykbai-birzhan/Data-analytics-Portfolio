@@ -38,6 +38,6 @@ Business Insights Derived
 
 Repository Structure
 AdventSalesDataset 1.pbix: The core Power BI project including the data model, DAX measures, and interactive dashboards.
-Data/: Contains the raw and processed datasets 
+Data/: Contains the raw and processed datasets
 Images/: Screenshots of the dashboard used in this documentation.
 
