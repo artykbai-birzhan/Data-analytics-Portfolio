@@ -28,10 +28,14 @@ Dashboard Preview
 Tech Stack & Skills
 
 Data Modeling:  Star Schema (Fact and Dimension tables).
+
 ETL:  Power Query for data cleaning and transformation.
+
 DAX Formulas: `YoY Growth` for year-over-year performance.
 `Sales YTD` for cumulative annual sales.
+
 Dynamic segmentation for "Expensive", "Middle", and "Budget" categories.
+
 UI/UX:  Custom navigation buttons, consistent color themes, and drill-through functionality.
 
 Business Insights Derived
