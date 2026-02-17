@@ -2,6 +2,7 @@ Comprehensive Sales & Customer Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=for-the-badge)
+
 Project Overview
 An interactive end-to-end Power BI solution designed to analyze $31M in retail sales. The dashboard provides deep insights into financial performance, product profitability, and customer demographics, enabling data-driven decision-making.
 
@@ -15,11 +16,11 @@ Python Integration:  Advanced data processing/visualization via Python scripts.
 Dashboard Preview
 | Sales Overview | Customer Insights |
 |---|---|
-| ![Sales Tab](Images/Screenshot 2026-02-17 at 11.50.46 1.png) | ![Customer Tab](Images/Screenshot 2026-02-17 at 11.51.00.png) |
+|  | ![Customer Tab](Images/Screenshot 2026-02-17 at 11.51.00.png) |
 
 | Product Performance | Time Intelligence |
 |---|---|
-| ![Product Tab](Images/Screenshot 2026-02-17 at 11.51.24.png) | ![Time Tab](Images/Screenshot 2026-02-17 at 11.51.37.png) |
+| ![Product Tab](Images/Screenshot 2026-02-17 at 11.51.24.png) | ![Time Tab](Images/Screenshot%202026-02-17%20at%2011.51.37.png?raw=true) |
 
 Tech Stack & Skills
 Data Modeling:  Star Schema (Fact and Dimension tables).
