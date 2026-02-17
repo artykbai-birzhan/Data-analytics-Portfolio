@@ -37,7 +37,10 @@ Business Insights Derived
 4. Despite high sales, certain "Budget" items have low profit margins, suggesting a need for pricing optimization.
 
 Repository Structure
+
 AdventSalesDataset 1.pbix: The core Power BI project including the data model, DAX measures, and interactive dashboards.
+
 Data/: Contains the raw and processed datasets
+
 Images/: Screenshots of the dashboard used in this documentation.
 
