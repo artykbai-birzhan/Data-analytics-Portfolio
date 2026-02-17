@@ -58,7 +58,7 @@ Size vs Price: Обнаружена сильная положительная к
 
 Age Factor: Новые постройки и исторические здания ценятся выше, чем дома среднего возраста (U-образная зависимость).
 
-<img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/f53b97a7-eb63-4730-89c6-be503a5a716d" />
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/f065527a-db42-4a61-898e-b83a28e8beab" />
 
 
 Repository Structure
