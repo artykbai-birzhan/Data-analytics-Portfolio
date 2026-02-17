@@ -5,66 +5,65 @@ Melbourne Housing Market: Price Drivers & Predictive Analysis
 
 Project Overview
 
-Цель этого проекта — выявить ключевые факторы, влияющие на стоимость жилья в Мельбурне, и подготовить данные для построения прогнозных моделей. Рынок недвижимости Мельбурна характеризуется высокой волатильностью, и понимание значимых признаков (features) помогает инвесторам и покупателям принимать обоснованные решения.
+The goal of this project is to identify key factors influencing housing prices in Melbourne and prepare data for building predictive models. Melbourne's property market is highly volatile, and understanding key features helps investors and buyers make informed decisions.
 
 Tech Stack
 
 Language: Python 3
 
-Libraries: Pandas, NumPy (обработка данных), Matplotlib, Seaborn (визуализация).
+Libraries: Pandas, NumPy (data processing), Matplotlib, Seaborn (visualization).
 
 Key Project Stages
 
 1. Data Cleaning & Preprocessing
 
-Датасет содержал значительное количество пропусков и выбросов. Были выполнены следующие шаги:
+The dataset contained a significant number of missing values and outliers. The following steps were performed:
 
-Missing Values: Заполнение пропусков в числовых признаках (BuildingArea, YearBuilt) медианой, а в категориальных — модой.
+Missing Values: Filling missing values in numerical features (BuildingArea, YearBuilt) with the median, and in categorical features with the mode.
 
-Outlier Removal: Удаление аномально высоких цен (выше 99-го перцентиля) для повышения стабильности будущих моделей.
+Outlier Removal: Removing abnormally high prices (above the 99th percentile) to improve the stability of future models.
 
-Data Formatting: Преобразование дат в формат datetime для извлечения временных признаков.
+Data Formatting: Converting dates to datetime format to extract temporal features.
 
 2. Feature Engineering
 
-Для улучшения качества анализа были созданы новые производные признаки:
+To improve the quality of the analysis, new derived features were created:
 
-HouseAge: Возраст здания на момент 2025 года.
+HouseAge: Building age as of 2025.
 
-RoomDensity: Соотношение количества комнат к площади участка.
+RoomDensity: Ratio of number of rooms to plot area.
 
-Time Features: Выделение года (SaleYear) и месяца (SaleMonth) продажи.
+Time Features: Extracting the year (SaleYear) and month (SaleMonth) of sale.
 
 3. Exploratory Data Analysis (EDA)
 
-В ходе анализа были визуализированы:
+The analysis visualized:
 
-Корреляция между ценой и физическими характеристиками (Building Area, Rooms).
+Correlation between price and physical characteristics (Building Area, Rooms).
 <img width="1008" height="920" alt="HH" src="https://github.com/user-attachments/assets/3aead91a-9ea3-49d4-9bb1-7d2214bdccf4" />
-Распределение цен в зависимости от региона (Regionname) и типа недвижимости.
+Price distribution by region (Regionname) and property type.
 <img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/25c6418e-0c02-41c5-aec4-536d322973a4" />
 
-Влияние географического положения (Lattitude, Longtitude) на стоимость.
+The influence of geographic location (Lattitude, Longitude) on price.
 
 Results & Insights
 
-Location Matters: Регион проживания и близость к центру города являются наиболее сильными предикторами цены.
+Location Matters: Region of residence and proximity to the city center are the strongest price predictors.
 
 <img width="1001" height="723" alt="image" src="https://github.com/user-attachments/assets/dd006ed5-9dfe-4d75-abc5-5bd86f855720" />
 
-Size vs Price: Обнаружена сильная положительная корреляция между жилой площадью (BuildingArea) и итоговой стоимостью.
+Size vs. Price: A strong positive correlation was found between the living area (BuildingArea) and the final price.
 
 <img width="691" height="470" alt="pp" src="https://github.com/user-attachments/assets/6bab2257-58dc-4e8f-8923-1ccd209448b6" />
 
-Age Factor: Новые постройки и исторические здания ценятся выше, чем дома среднего возраста (U-образная зависимость).
+Age Factor: New construction and historic buildings are valued higher than middle-aged homes (U-shaped relationship).
 
 <img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/f065527a-db42-4a61-898e-b83a28e8beab" />
 
-
 Repository Structure
 
-melbourne_housing.ipynb — основной Jupyter Notebook с процессом очистки и анализа.
+melbourne_housing.ipynb — the main Jupyter Notebook containing the cleaning and analysis process.
 
-melb_data.csv — исходный датасет.
+melb_data.csv — the original dataset.
 
-Melbourne_cleaned.csv — очищенные данные, готовые для Machine Learning.
+Melbourne_cleaned.csv - Cleaned data ready for Machine Learning.
