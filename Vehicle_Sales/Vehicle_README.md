@@ -16,11 +16,11 @@ Python Integration:  Advanced data processing/visualization via Python scripts.
 Dashboard Preview
 | Sales Overview | Customer Insights |
 |---|---|
-|  | ![Customer Tab](Images/Screenshot 2026-02-17 at 11.51.00.png) |
+| ![Sales Tab](Images/Screenshot%202026-02-17%20at%2011.50.46.png?raw=true) | ![Customer Tab](Images/Screenshot%202026-02-17%20at%2011.51.00.png?raw=true) |
 
 | Product Performance | Time Intelligence |
 |---|---|
-| ![Product Tab](Images/Screenshot 2026-02-17 at 11.51.24.png) | ![Time Tab](Images/Screenshot%202026-02-17%20at%2011.51.37.png?raw=true) |
+| ![Product Tab](Images/Screenshot%202026-02-17%20at%2011.51.24.png?raw=true) | ![Time Tab](Images/Screenshot%202026-02-17%20at%2011.51.37.png?raw=true) |
 
 Tech Stack & Skills
 Data Modeling:  Star Schema (Fact and Dimension tables).
