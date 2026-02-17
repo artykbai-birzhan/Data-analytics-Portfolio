@@ -10,9 +10,13 @@ An interactive end-to-end Power BI solution designed to analyze $31M in retail s
 Key Features
 
 Sales Intelligence: Tracking Total Sales, Profit, and Average Selling Price across different time periods.
+
 Customer Segmentation: Analysis of 18,400+ customers by age group, occupation, and country (USA, Australia, UK, etc.).
+
 Time Intelligence:  Dynamic YoY Growth and YTD calculations using advanced DAX.
+
 Product Performance:  Identifying top-selling models (Mountain-200 series) and analyzing sales by color and price category.
+
 Python Integration:  Advanced data processing/visualization via Python scripts.
 
 Dashboard Preview
