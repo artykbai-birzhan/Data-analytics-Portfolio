@@ -60,6 +60,8 @@ Age Factor: New construction and historic buildings are valued higher than middl
 
 <img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/f065527a-db42-4a61-898e-b83a28e8beab" />
 
+Investing in spacious properties in prime locations (closer to the center and south) remains the safest and most profitable strategy, according to historical data from over 13,500 records.
+
 Repository Structure
 
 melbourne_housing.ipynb — the main Jupyter Notebook containing the cleaning and analysis process.
