@@ -1,0 +1,19 @@
+# Core data processing
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+optuna
+shap
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook environment
+jupyter
+notebook
