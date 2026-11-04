@@ -1,0 +1,2 @@
+Capstone/events.csv filter=lfs diff=lfs merge=lfs -text
+Capstone/fact_events.csv filter=lfs diff=lfs merge=lfs -text
